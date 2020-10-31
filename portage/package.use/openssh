@@ -1,0 +1,3 @@
+net-misc/openssh -bindist ssl 
+>=dev-libs/openssl-1.1.1g -bindist
+

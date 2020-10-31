@@ -1,0 +1,48 @@
+#Required for newer kernel
+sys-kernel/gentoo-sources ~amd64
+sys-kernel/linux-headers ~amd64
+
+#Firefox
+www-client/firefox ~amd64
+
+#nnn
+app-misc/nnn ~amd64
+
+#Rofi
+x11-misc/rofi ~amd64
+
+#Dunst
+x11-misc/dunst ~amd64
+
+#Telegram-bin
+net-im/telegram-desktop-bin ~amd64
+
+#sys-lib/pam 
+sys-libs/pam ~amd64
+sys-auth/pambase ~amd64
+sys-auth/passwdqc ~amd64
+
+#OpenSSH
+net-misc/openssh ~amd64
+
+#Kitty Terminal
+x11-terms/kitty ~amd64
+x11-terms/kitty-terminfo ~amd64
+
+#Ranger File Manager
+app-misc/ranger ~amd64
+
+#Nodejs
+net-libs/nodejs ~amd64
+
+#Sublime
+app-editors/sublime-text ~amd64
+
+#Steam
+games-util/steam-launcher ~amd64
+games-util/steam-meta ~amd64
+games-util/steam-client-meta[steamruntime] ~amd64
+games-util/steam-games-meta ~amd64
+
+#MPD & Ncmpcpp
+media-sound/mpd ~amd64

@@ -1,0 +1,2 @@
+>=app-text/poppler-0.90.1 cairo
+>=media-libs/gegl-0.4.22 cairo
