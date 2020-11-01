@@ -39,10 +39,13 @@ net-libs/nodejs ~amd64
 app-editors/sublime-text ~amd64
 
 #Steam
-games-util/steam-launcher ~amd64
-games-util/steam-meta ~amd64
-games-util/steam-client-meta[steamruntime] ~amd64
-games-util/steam-games-meta ~amd64
+#games-util/steam-launcher ~amd64
+#games-util/steam-meta ~amd64
+#games-util/steam-client-meta[steamruntime] ~amd64
+#games-util/steam-games-meta ~amd64
 
 #MPD & Ncmpcpp
 media-sound/mpd ~amd64
+
+#Libressl
+dev-libs/libressl
