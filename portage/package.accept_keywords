@@ -2,8 +2,8 @@
 sys-kernel/gentoo-sources ~amd64
 sys-kernel/linux-headers ~amd64
 
-#Firefox
-www-client/firefox ~amd64
+#Firefox-bin
+www-client/firefox-bin ~amd64
 
 #nnn
 app-misc/nnn ~amd64
@@ -37,12 +37,6 @@ net-libs/nodejs ~amd64
 
 #Sublime
 app-editors/sublime-text ~amd64
-
-#Steam
-#games-util/steam-launcher ~amd64
-#games-util/steam-meta ~amd64
-#games-util/steam-client-meta[steamruntime] ~amd64
-#games-util/steam-games-meta ~amd64
 
 #MPD & Ncmpcpp
 media-sound/mpd ~amd64
