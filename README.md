@@ -5,3 +5,5 @@ Get gentoo linux zen kernel from here : https://github.com/zen-kernel/zen-kernel
 or 
 
 Get Linux-ck by emerge -aq ck-sources 
+
+#### Complete Overhaul Required ####
